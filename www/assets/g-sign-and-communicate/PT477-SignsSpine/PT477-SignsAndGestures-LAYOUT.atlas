@@ -1,0 +1,90 @@
+
+PT477-SignsAndGestures-LAYOUT.png
+size: 1635,513
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+more-1
+  rotate: false
+  xy: 1104, 204
+  size: 220, 307
+  orig: 222, 309
+  offset: 1, 1
+  index: -1
+more-2
+  rotate: true
+  xy: 1326, 293
+  size: 218, 307
+  orig: 220, 309
+  offset: 1, 1
+  index: -1
+more-3
+  rotate: false
+  xy: 856, 204
+  size: 246, 307
+  orig: 248, 309
+  offset: 1, 1
+  index: -1
+please-1
+  rotate: true
+  xy: 314, 6
+  size: 190, 308
+  orig: 192, 310
+  offset: 1, 1
+  index: -1
+please-2
+  rotate: true
+  xy: 624, 6
+  size: 190, 308
+  orig: 192, 310
+  offset: 1, 1
+  index: -1
+please-3
+  rotate: false
+  xy: 641, 203
+  size: 213, 308
+  orig: 215, 310
+  offset: 1, 1
+  index: -1
+stop-1
+  rotate: false
+  xy: 2, 198
+  size: 211, 313
+  orig: 213, 315
+  offset: 1, 1
+  index: -1
+stop-2
+  rotate: false
+  xy: 215, 198
+  size: 211, 313
+  orig: 213, 315
+  offset: 1, 1
+  index: -1
+stop-3
+  rotate: false
+  xy: 428, 198
+  size: 211, 313
+  orig: 213, 315
+  offset: 1, 1
+  index: -1
+thank-you-1
+  rotate: true
+  xy: 934, 23
+  size: 179, 304
+  orig: 181, 306
+  offset: 1, 1
+  index: -1
+thank-you-2
+  rotate: true
+  xy: 2, 2
+  size: 194, 310
+  orig: 196, 312
+  offset: 1, 1
+  index: -1
+thank-you-3
+  rotate: true
+  xy: 1326, 23
+  size: 268, 304
+  orig: 270, 306
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,20 @@
+
+PT477-poofing.png
+size: 521,296
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bust1
+  rotate: false
+  xy: 2, 2
+  size: 355, 292
+  orig: 355, 292
+  offset: 0, 0
+  index: -1
+Bust2
+  rotate: true
+  xy: 359, 100
+  size: 194, 160
+  orig: 194, 160
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,248 @@
+{
+    "skeleton": {
+        "hash": "7jwLQM7K7c7XsqSdZSLFLWMLsdw",
+        "spine": "3.8.99",
+        "images": "./images/",
+        "audio": "D:/wps_17_game/RS-Communication2-SIGNS & GESTURES/Graphic Assets"
+    },
+    "bones": [
+        {
+            "name": "root"
+        },
+        {
+            "name": "more-1",
+            "parent": "root",
+            "x": -3.65,
+            "y": 306.52
+        },
+        {
+            "name": "please-1",
+            "parent": "root",
+            "x": 7.21,
+            "y": 298.17
+        },
+        {
+            "name": "stop-1",
+            "parent": "root",
+            "x": -5.74,
+            "y": 277.28
+        },
+        {
+            "name": "thank-you-1",
+            "parent": "root",
+            "x": 3.95,
+            "y": 261.09
+        }
+    ],
+    "slots": [
+        {
+            "name": "stop-1",
+            "bone": "stop-1"
+        },
+        {
+            "name": "more-1",
+            "bone": "more-1"
+        },
+        {
+            "name": "thank-you-1",
+            "bone": "thank-you-1"
+        },
+        {
+            "name": "please-1",
+            "bone": "please-1"
+        }
+    ],
+    "skins": [
+        {
+            "name": "default",
+            "attachments": {
+                "more-1": {
+                    "more-1": {
+                        "x": 3.85,
+                        "y": -146.76,
+                        "width": 222,
+                        "height": 309
+                    },
+                    "more-2": {
+                        "x": 3.85,
+                        "y": -146.76,
+                        "width": 220,
+                        "height": 309
+                    },
+                    "more-3": {
+                        "x": 5.83,
+                        "y": -146.76,
+                        "width": 248,
+                        "height": 309
+                    }
+                },
+                "please-1": {
+                    "please-1": {
+                        "x": -4.69,
+                        "y": -136.91,
+                        "width": 192,
+                        "height": 310
+                    },
+                    "please-2": {
+                        "x": -4.69,
+                        "y": -136.91,
+                        "width": 192,
+                        "height": 310
+                    },
+                    "please-3": {
+                        "x": -16.12,
+                        "y": -136.91,
+                        "width": 215,
+                        "height": 310
+                    }
+                },
+                "stop-1": {
+                    "stop-1": {
+                        "x": -6.24,
+                        "y": -119.53,
+                        "width": 213,
+                        "height": 315
+                    },
+                    "stop-2": {
+                        "x": -6.24,
+                        "y": -119.53,
+                        "width": 213,
+                        "height": 315
+                    },
+                    "stop-3": {
+                        "x": -6.24,
+                        "y": -119.53,
+                        "width": 213,
+                        "height": 315
+                    }
+                },
+                "thank-you-1": {
+                    "thank-you-1": {
+                        "x": -2,
+                        "y": -96.72,
+                        "width": 181,
+                        "height": 306
+                    },
+                    "thank-you-2": {
+                        "x": -9.49,
+                        "y": -99.65,
+                        "width": 196,
+                        "height": 312
+                    },
+                    "thank-you-3": {
+                        "x": -46.49,
+                        "y": -96.76,
+                        "width": 270,
+                        "height": 306
+                    }
+                }
+            }
+        }
+    ],
+    "animations": {
+        "More": {
+            "slots": {
+                "more-1": {
+                    "attachment": [
+                        {
+                            "name": "more-1"
+                        },
+                        {
+                            "time": 0.3333,
+                            "name": "more-2"
+                        },
+                        {
+                            "time": 0.6667,
+                            "name": "more-3"
+                        },
+                        {
+                            "time": 1,
+                            "name": "more-1"
+                        }
+                    ]
+                }
+            }
+        },
+        "Please": {
+            "slots": {
+                "please-1": {
+                    "attachment": [
+                        {
+                            "name": "please-1"
+                        },
+                        {
+                            "time": 0.3333,
+                            "name": "please-2"
+                        },
+                        {
+                            "time": 0.6667,
+                            "name": "please-3"
+                        },
+                        {
+                            "time": 1,
+                            "name": "please-1"
+                        },
+                        {
+                            "time": 1.8333,
+                            "name": "please-2"
+                        },
+                        {
+                            "time": 2.1667,
+                            "name": "please-3"
+                        },
+                        {
+                            "time": 2.5,
+                            "name": "please-1"
+                        }
+                    ]
+                }
+            }
+        },
+        "Stop": {
+            "slots": {
+                "stop-1": {
+                    "attachment": [
+                        {
+                            "name": "stop-1"
+                        },
+                        {
+                            "time": 0.3333,
+                            "name": "stop-2"
+                        },
+                        {
+                            "time": 0.6667,
+                            "name": "stop-3"
+                        },
+                        {
+                            "time": 1,
+                            "name": "stop-1"
+                        }
+                    ]
+                }
+            }
+        },
+        "Thank_You": {
+            "slots": {
+                "thank-you-1": {
+                    "attachment": [
+                        {
+                            "name": "thank-you-1"
+                        },
+                        {
+                            "time": 0.3333,
+                            "name": "thank-you-2"
+                        },
+                        {
+                            "time": 0.6667,
+                            "name": "thank-you-3"
+                        },
+                        {
+                            "time": 1,
+                            "name": "thank-you-1"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

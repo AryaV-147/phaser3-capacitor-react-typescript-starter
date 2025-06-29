@@ -1,0 +1,29 @@
+{
+  "compilerOptions": {
+    "outDir": "./www/",
+    "sourceMap": true,
+    "noImplicitAny": true,
+    "module": "commonjs",
+    "target": "es5",
+    "jsx": "react",
+    "resolveJsonModule": true,
+    "allowSyntheticDefaultImports": true,
+    "skipLibCheck" : true,
+    "esModuleInterop": true,
+    "typeRoots": ["@types","./node_modules/@types", "./custom_typings", "node_module/phaser/types"],
+    "baseUrl": "./src"
+  },
+  "include": ["src"],
+  "exclude" : [
+      "./test/**/*"
+  ],
+  "ts-node": {
+    "compilerOptions": {
+      "esModuleInterop": true,
+      "module": "commonjs",
+      "moduleResolution": "node",
+      "noEmit": true,
+      "allowSyntheticDefaultImports": true
+    }
+  }
+}

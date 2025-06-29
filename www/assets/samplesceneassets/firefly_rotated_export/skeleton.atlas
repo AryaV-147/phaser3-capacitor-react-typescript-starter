@@ -1,0 +1,83 @@
+
+skeleton.png
+size: 137,185
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Butterfly-body
+  rotate: false
+  xy: 0, 148
+  size: 84, 37
+  orig: 86, 39
+  offset: 1, 1
+  index: -1
+L-antenna
+  rotate: false
+  xy: 80, 52
+  size: 34, 26
+  orig: 36, 28
+  offset: 1, 1
+  index: -1
+L-eye
+  rotate: true
+  xy: 115, 27
+  size: 23, 22
+  orig: 25, 24
+  offset: 1, 1
+  index: -1
+L-eye-closed
+  rotate: false
+  xy: 116, 54
+  size: 8, 24
+  orig: 10, 26
+  offset: 1, 1
+  index: -1
+L-wing-bottom
+  rotate: true
+  xy: 86, 130
+  size: 55, 48
+  orig: 55, 48
+  offset: 0, 0
+  index: -1
+L-wing-top
+  rotate: true
+  xy: 0, 0
+  size: 72, 77
+  orig: 72, 77
+  offset: 0, 0
+  index: -1
+R-antenna
+  rotate: false
+  xy: 79, 25
+  size: 34, 25
+  orig: 36, 27
+  offset: 1, 1
+  index: -1
+R-eye
+  rotate: false
+  xy: 79, 0
+  size: 23, 23
+  orig: 25, 25
+  offset: 1, 1
+  index: -1
+R-eye-closed
+  rotate: false
+  xy: 126, 54
+  size: 8, 24
+  orig: 10, 26
+  offset: 1, 1
+  index: -1
+R-wing-bottom
+  rotate: false
+  xy: 80, 80
+  size: 55, 48
+  orig: 55, 48
+  offset: 0, 0
+  index: -1
+R-wing-top
+  rotate: true
+  xy: 0, 74
+  size: 72, 78
+  orig: 72, 78
+  offset: 0, 0
+  index: -1

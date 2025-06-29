@@ -1,0 +1,20 @@
+
+PT477-starSprinkle.png
+size: 244,169
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Star
+  rotate: false
+  xy: 2, 2
+  size: 167, 165
+  orig: 173, 173
+  offset: 4, 3
+  index: -1
+Star_1
+  rotate: false
+  xy: 171, 95
+  size: 71, 72
+  orig: 90, 89
+  offset: 9, 9
+  index: -1

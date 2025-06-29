@@ -1,0 +1,313 @@
+
+PT477-fizmo_rounded.png
+size: 1024,1021
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm Lower Left
+  rotate: false
+  xy: 912, 688
+  size: 112, 160
+  orig: 112, 160
+  offset: 0, 0
+  index: -1
+Arm Lower Right
+  rotate: false
+  xy: 912, 850
+  size: 112, 171
+  orig: 112, 171
+  offset: 0, 0
+  index: -1
+Arm Upper Right
+  rotate: false
+  xy: 341, 373
+  size: 138, 189
+  orig: 138, 189
+  offset: 0, 0
+  index: -1
+BG
+  rotate: false
+  xy: 502, 613
+  size: 408, 408
+  orig: 408, 408
+  offset: 0, 0
+  index: -1
+Circle
+  rotate: false
+  xy: 0, 564
+  size: 500, 457
+  orig: 500, 457
+  offset: 0, 0
+  index: -1
+Ellipse L
+  rotate: false
+  xy: 459, 315
+  size: 24, 17
+  orig: 24, 17
+  offset: 0, 0
+  index: -1
+Ellipse R
+  rotate: false
+  xy: 1001, 459
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+Eye BG L
+  rotate: false
+  xy: 968, 347
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+Eye BG R
+  rotate: false
+  xy: 459, 334
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+FRONT Ear Left
+  rotate: false
+  xy: 298, 63
+  size: 205, 210
+  orig: 205, 210
+  offset: 0, 0
+  index: -1
+FRONT Ear Right
+  rotate: false
+  xy: 505, 63
+  size: 205, 210
+  orig: 205, 210
+  offset: 0, 0
+  index: -1
+FRONT Eye Closed Left
+  rotate: false
+  xy: 221, 315
+  size: 44, 15
+  orig: 44, 15
+  offset: 0, 0
+  index: -1
+FRONT Eye Closed Right
+  rotate: false
+  xy: 267, 315
+  size: 43, 15
+  orig: 43, 15
+  offset: 0, 0
+  index: -1
+FRONT Eye Open Right
+  rotate: false
+  xy: 968, 432
+  size: 31, 44
+  orig: 31, 44
+  offset: 0, 0
+  index: -1
+FRONT Eye Silly Left
+  rotate: false
+  xy: 968, 514
+  size: 42, 34
+  orig: 42, 34
+  offset: 0, 0
+  index: -1
+FRONT Eye Silly Right
+  rotate: false
+  xy: 968, 478
+  size: 42, 34
+  orig: 42, 34
+  offset: 0, 0
+  index: -1
+FRONT Eyebrow Left
+  rotate: false
+  xy: 947, 30
+  size: 65, 32
+  orig: 65, 32
+  offset: 0, 0
+  index: -1
+FRONT Eyebrow Right
+  rotate: false
+  xy: 298, 29
+  size: 65, 32
+  orig: 65, 32
+  offset: 0, 0
+  index: -1
+FRONT Mouth Big O
+  rotate: false
+  xy: 228, 20
+  size: 68, 64
+  orig: 68, 64
+  offset: 0, 0
+  index: -1
+FRONT Mouth Closed
+  rotate: false
+  xy: 0, 315
+  size: 60, 15
+  orig: 60, 15
+  offset: 0, 0
+  index: -1
+FRONT Mouth F-L TH
+  rotate: false
+  xy: 712, 11
+  size: 107, 51
+  orig: 107, 51
+  offset: 0, 0
+  index: -1
+FRONT Mouth Open
+  rotate: false
+  xy: 0, 13
+  size: 87, 60
+  orig: 87, 60
+  offset: 0, 0
+  index: -1
+FRONT Mouth Open Wide
+  rotate: false
+  xy: 912, 621
+  size: 95, 65
+  orig: 95, 65
+  offset: 0, 0
+  index: -1
+FRONT Mouth Small O
+  rotate: false
+  xy: 887, 3
+  size: 58, 59
+  orig: 58, 59
+  offset: 0, 0
+  index: -1
+Front Eye Open Left
+  rotate: false
+  xy: 968, 386
+  size: 31, 44
+  orig: 31, 44
+  offset: 0, 0
+  index: -1
+Front Goggles
+  rotate: false
+  xy: 712, 118
+  size: 283, 118
+  orig: 283, 118
+  offset: 0, 0
+  index: -1
+Hair Front
+  rotate: false
+  xy: 0, 332
+  size: 339, 230
+  orig: 339, 230
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 0, 55
+  size: 297, 275
+  orig: 297, 275
+  offset: 0, 0
+  index: -1
+Jacket Left Side
+  rotate: false
+  xy: 756, 237
+  size: 210, 374
+  orig: 210, 374
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 968, 550
+  size: 55, 33
+  orig: 55, 34
+  offset: 0, 1
+  index: -1
+Mouth hair 1
+  rotate: false
+  xy: 712, 64
+  size: 158, 51
+  orig: 158, 51
+  offset: 0, 0
+  index: -1
+Mouth hair 2
+  rotate: false
+  xy: 872, 64
+  size: 117, 51
+  orig: 117, 51
+  offset: 0, 0
+  index: -1
+Neck
+  rotate: false
+  xy: 341, 296
+  size: 116, 75
+  orig: 116, 75
+  offset: 0, 0
+  index: -1
+Nose
+  rotate: false
+  xy: 968, 584
+  size: 48, 35
+  orig: 48, 35
+  offset: 0, 0
+  index: -1
+Teeth
+  rotate: false
+  xy: 968, 324
+  size: 41, 21
+  orig: 41, 21
+  offset: 0, 0
+  index: -1
+Torso
+  rotate: false
+  xy: 502, 275
+  size: 252, 336
+  orig: 252, 336
+  offset: 0, 0
+  index: -1
+mouth front open
+  rotate: false
+  xy: 821, 0
+  size: 64, 62
+  orig: 64, 62
+  offset: 0, 0
+  index: -1
+
+PT477-fizmo_rounded2.png
+size: 176,940
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm Left
+  rotate: false
+  xy: 0, 148
+  size: 119, 125
+  orig: 119, 125
+  offset: 0, 0
+  index: -1
+Arm Right
+  rotate: false
+  xy: 0, 275
+  size: 122, 133
+  orig: 122, 133
+  offset: 0, 0
+  index: -1
+Arm-Upper-Left
+  rotate: false
+  xy: 0, 410
+  size: 135, 176
+  orig: 135, 176
+  offset: 0, 0
+  index: -1
+Jacket Right Side
+  rotate: false
+  xy: 0, 588
+  size: 118, 352
+  orig: 118, 352
+  offset: 0, 0
+  index: -1
+Pocket
+  rotate: false
+  xy: 89, 2
+  size: 87, 144
+  orig: 87, 144
+  offset: 0, 0
+  index: -1
+Tool
+  rotate: false
+  xy: 0, 0
+  size: 87, 146
+  orig: 87, 146
+  offset: 0, 0
+  index: -1

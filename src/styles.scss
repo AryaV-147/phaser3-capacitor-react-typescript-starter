@@ -1,0 +1,23 @@
+// Import all of Bootstrap's CSS
+@import "bootstrap/scss/bootstrap";
+
+@media screen and (min-width: 600px) {
+    body {
+    
+            background-color: black;
+        }
+}
+
+
+.btn{
+
+    --bs-btn-padding-x:0.75 rem;
+    --bs-btn-font-size: 1rem;
+}
+
+.nav-item{
+    border-top-style: outset;
+}
+.nav-item:hover{
+    background-color:rgb(233, 232, 232);
+}
